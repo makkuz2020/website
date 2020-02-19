@@ -140,3 +140,41 @@ html, body {
 text-align: center;
 }
 p {text-align: left;}
+
+* {
+    box-sizing: border-box;
+}
+.box {
+    color:white;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    padding:15px;
+  
+}
+  
+  .box1 { background:#34bd56;}
+  .box2 { background:#212dcf;}
+  .box3 { background:#ff7f50;}
+  .box4 { background:#daff55;}
+  .box5 { background:#c71fb0;}
+.container {
+    display: flex;
+    justify-content: center;
+}
+ h3 {
+		text-align: center;
+		font-family: 'Pacifico', cursive;
+		padding: 50px 200px;
+		text-shadow: 3px 3px #ffff;
+		
+	}
+
+p {
+	font-size: 18px;
+	margin: 5px;
+	text-indent: 20px;
+}
+
+
+
